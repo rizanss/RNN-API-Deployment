@@ -1,0 +1,12 @@
+# Abaikan folder virtual environment
+.venv/
+venv/
+env/
+
+# Abaikan file cache Python
+__pycache__/
+*.pyc
+
+# Abaikan folder Git (tidak perlu di dalam container)
+.git
+.gitignore
